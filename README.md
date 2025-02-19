@@ -1,5 +1,7 @@
 # speecht5_tts-test
 
+[microsoft/speecht5_tts](https://huggingface.co/microsoft/speecht5_tts)を試すためのリポジトリ
+
 # setup
 ```bash
 uv venv -p 3.11
